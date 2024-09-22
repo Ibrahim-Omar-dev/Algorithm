@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\bin\Debug\net8.0\SortData.exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\bin\Debug\net8.0\SortData.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\bin\Debug\net8.0\SortData.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\bin\Debug\net8.0\SortData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\bin\Debug\net8.0\SortData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\refint\SortData.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\SortData.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\SortData\obj\Debug\net8.0\ref\SortData.dll

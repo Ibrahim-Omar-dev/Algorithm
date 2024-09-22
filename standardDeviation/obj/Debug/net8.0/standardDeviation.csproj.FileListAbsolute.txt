@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\bin\Debug\net8.0\standardDeviation.exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\bin\Debug\net8.0\standardDeviation.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\bin\Debug\net8.0\standardDeviation.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\bin\Debug\net8.0\standardDeviation.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\bin\Debug\net8.0\standardDeviation.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\refint\standardDeviation.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\standardDeviation.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\standardDeviation\obj\Debug\net8.0\ref\standardDeviation.dll

@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\bin\Debug\net8.0\Sorted Characters Frequencies.exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\bin\Debug\net8.0\Sorted Characters Frequencies.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\bin\Debug\net8.0\Sorted Characters Frequencies.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\bin\Debug\net8.0\Sorted Characters Frequencies.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\bin\Debug\net8.0\Sorted Characters Frequencies.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\refint\Sorted Characters Frequencies.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\Sorted Characters Frequencies.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Sorted Characters Frequencies\obj\Debug\net8.0\ref\Sorted Characters Frequencies.dll

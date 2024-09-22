@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sorted Characters Frequencies/1.0.0": {
+        "runtime": {
+          "Sorted Characters Frequencies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorted Characters Frequencies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

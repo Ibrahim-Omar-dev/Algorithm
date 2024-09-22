@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\bin\Debug\net8.0\DP(Knapsack).exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\bin\Debug\net8.0\DP(Knapsack).deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\bin\Debug\net8.0\DP(Knapsack).runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\bin\Debug\net8.0\DP(Knapsack).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\bin\Debug\net8.0\DP(Knapsack).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\refint\DP(Knapsack).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\DP(Knapsack).genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\DP(Knapsack)\obj\Debug\net8.0\ref\DP(Knapsack).dll

@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\bin\Debug\net8.0\Graph(BFT).exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\bin\Debug\net8.0\Graph(BFT).deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\bin\Debug\net8.0\Graph(BFT).runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\bin\Debug\net8.0\Graph(BFT).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\bin\Debug\net8.0\Graph(BFT).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\refint\Graph(BFT).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\Graph(BFT).genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(BFT)\obj\Debug\net8.0\ref\Graph(BFT).dll

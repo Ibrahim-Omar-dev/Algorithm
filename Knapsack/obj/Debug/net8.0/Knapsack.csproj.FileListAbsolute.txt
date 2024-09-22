@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\bin\Debug\net8.0\Knapsack.exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\bin\Debug\net8.0\Knapsack.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\bin\Debug\net8.0\Knapsack.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\bin\Debug\net8.0\Knapsack.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\bin\Debug\net8.0\Knapsack.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\refint\Knapsack.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\Knapsack.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Knapsack\obj\Debug\net8.0\ref\Knapsack.dll

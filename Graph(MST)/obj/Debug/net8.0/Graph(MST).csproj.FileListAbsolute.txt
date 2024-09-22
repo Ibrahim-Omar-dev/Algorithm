@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\bin\Debug\net8.0\Graph(MST).exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\bin\Debug\net8.0\Graph(MST).deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\bin\Debug\net8.0\Graph(MST).runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\bin\Debug\net8.0\Graph(MST).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\bin\Debug\net8.0\Graph(MST).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\refint\Graph(MST).dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\Graph(MST).genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\Graph(MST)\obj\Debug\net8.0\ref\Graph(MST).dll

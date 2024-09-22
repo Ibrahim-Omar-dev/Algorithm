@@ -1,0 +1,14 @@
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.exe
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.deps.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.runtimeconfig.json
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\bin\Debug\net8.0\GreedyAlgorithm.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.AssemblyInfo.cs
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\refint\GreedyAlgorithm.dll
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.pdb
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\GreedyAlgorithm.genruntimeconfig.cache
+C:\Users\ELTANANY 01062856027\source\repos\Algorithms\GreedyAlgorithm\obj\Debug\net8.0\ref\GreedyAlgorithm.dll
